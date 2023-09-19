@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//sudasdasd
 public class test {
     static Scanner i=new Scanner(System.in);
     public static boolean nguyento(int nt)
